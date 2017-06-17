@@ -1,0 +1,5 @@
+/Users/meegsmakes/Projects/MJNorton_DateDiff/MJNorton_DateDiff/bin/Debug/MJNorton_DateDiff.exe
+/Users/meegsmakes/Projects/MJNorton_DateDiff/MJNorton_DateDiff/bin/Debug/MJNorton_DateDiff.pdb
+/Users/meegsmakes/Projects/MJNorton_DateDiff/MJNorton_DateDiff/obj/x86/Debug/MJNorton_DateDiff.csproj.CoreCompileInputs.cache
+/Users/meegsmakes/Projects/MJNorton_DateDiff/MJNorton_DateDiff/obj/x86/Debug/MJNorton_DateDiff.exe
+/Users/meegsmakes/Projects/MJNorton_DateDiff/MJNorton_DateDiff/obj/x86/Debug/MJNorton_DateDiff.pdb

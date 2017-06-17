@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A4DB84F0-9ECC-4810-B032-7DB1E956B1A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MJNorton_DateDiff/Properties/DateDiffFour.cs">
+    <Files>
+      <File FileName="MJNorton_DateDiff/Properties/DateDiffFour.cs" Line="26" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MJNorton__DateDiff PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
