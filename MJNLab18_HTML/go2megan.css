@@ -1,0 +1,24 @@
+header {
+    font-family: verdana;
+    font-size: 20px;
+	color: green;
+	font-color: green;
+	
+}
+body {
+    background-color: white;
+	font-family: verdana;
+	font-size: 12px;
+}
+h1 {
+    color: green;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+footer{
+    font-family: verdana;
+    font-size: 20px;
+}

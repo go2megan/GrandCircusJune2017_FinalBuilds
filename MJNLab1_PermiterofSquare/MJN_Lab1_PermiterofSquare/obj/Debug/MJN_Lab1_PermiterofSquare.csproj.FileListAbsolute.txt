@@ -1,0 +1,5 @@
+C:\Users\go2me\Projects\GrandCircusJune2017\4_LabsTake2_Weeks3_On\MJN_Lab1_PermiterofSquare\MJN_Lab1_PermiterofSquare\bin\Debug\MJN_Lab1_PermiterofSquare.exe.config
+C:\Users\go2me\Projects\GrandCircusJune2017\4_LabsTake2_Weeks3_On\MJN_Lab1_PermiterofSquare\MJN_Lab1_PermiterofSquare\bin\Debug\MJN_Lab1_PermiterofSquare.exe
+C:\Users\go2me\Projects\GrandCircusJune2017\4_LabsTake2_Weeks3_On\MJN_Lab1_PermiterofSquare\MJN_Lab1_PermiterofSquare\bin\Debug\MJN_Lab1_PermiterofSquare.pdb
+C:\Users\go2me\Projects\GrandCircusJune2017\4_LabsTake2_Weeks3_On\MJN_Lab1_PermiterofSquare\MJN_Lab1_PermiterofSquare\obj\Debug\MJN_Lab1_PermiterofSquare.exe
+C:\Users\go2me\Projects\GrandCircusJune2017\4_LabsTake2_Weeks3_On\MJN_Lab1_PermiterofSquare\MJN_Lab1_PermiterofSquare\obj\Debug\MJN_Lab1_PermiterofSquare.pdb

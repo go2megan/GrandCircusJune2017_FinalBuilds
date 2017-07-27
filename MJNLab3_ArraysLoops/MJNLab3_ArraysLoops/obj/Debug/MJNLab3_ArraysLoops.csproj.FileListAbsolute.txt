@@ -1,0 +1,5 @@
+c:\users\go2me\Projects\GrandCircusJune2017\4_LabsTake2_Weeks3_On\MJNLab3_ArraysLoops\MJNLab3_ArraysLoops\bin\Debug\MJNLab3_ArraysLoops.exe.config
+c:\users\go2me\Projects\GrandCircusJune2017\4_LabsTake2_Weeks3_On\MJNLab3_ArraysLoops\MJNLab3_ArraysLoops\bin\Debug\MJNLab3_ArraysLoops.exe
+c:\users\go2me\Projects\GrandCircusJune2017\4_LabsTake2_Weeks3_On\MJNLab3_ArraysLoops\MJNLab3_ArraysLoops\bin\Debug\MJNLab3_ArraysLoops.pdb
+c:\users\go2me\Projects\GrandCircusJune2017\4_LabsTake2_Weeks3_On\MJNLab3_ArraysLoops\MJNLab3_ArraysLoops\obj\Debug\MJNLab3_ArraysLoops.exe
+c:\users\go2me\Projects\GrandCircusJune2017\4_LabsTake2_Weeks3_On\MJNLab3_ArraysLoops\MJNLab3_ArraysLoops\obj\Debug\MJNLab3_ArraysLoops.pdb

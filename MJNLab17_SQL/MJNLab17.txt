@@ -1,0 +1,91 @@
+1) Select * from Customers
+
+2) Select distinct Country from customers
+
+3) Select * From Customers where Customer ID like 'BI%' 
+returns a null, but if you do
+select * from Customers where CustomerID like 'B%' you get 7 records.
+replacing 'BI%' with 'BL%' returns 2 results
+
+4)select * from Orders where OrderID between '10248' and '10257'
+
+** come back to this, this could be a better query
+
+5)Select * From Customers where PostalCode = '1010' or PostalCode = '3012' or PostalCode = '12209' or PostalCode = '05023'
+
+6) select * from orders where ShipRegion IS NULL
+Adding in Count(*) = 507 records returned
+
+7)Select customerID, City, Country From Customers Order By Country ASC, City ASC
+
+8) oops every company is now Grand Circus and Professor Tommy
+
+9)
+update Orders
+set ShipRegion = 'Euro Zone'
+where Orders.ShipCountry = 'France' 
+
+77 records updated
+
+10) 17 records to delete where (select count(*) from [Order Details] where Quantity <= 1)
+
+delete from [Order Details]
+where Quantity <= 1
+
+17 rows affected
+
+11)
+AVG = select AVG(quantity) 
+from [Order Details]
+----> 23 records
+
+MIN = select MIN(quantity) 
+from [Order Details] 
+
+--- > 2 records
+
+MAX = select MAX(quantity) 
+from [Order Details]
+
+----> 130
+
+12) 
+
+select MAX(quantity)
+from [Order Details]
+group by OrderID
+
+select MIN(quantity) 
+from [Order Details]
+group by OrderID
+
+select AVG(quantity) 
+from [Order Details]
+group by OrderID
+
+13)
+select * from Orders
+where OrderID = '10290'
+
+14)
+select Orders.CustomerID, Orders.OrderID, customers.ContactTitle
+from Orders inner join Customers on Orders.CustomerID = customers.CustomerID
+
+select Orders.CustomerID, Orders.OrderID, customers.ContactTitle
+from Orders left join Customers on Orders.CustomerID = customers.CustomerID
+
+select Orders.CustomerID, Orders.OrderID, customers.ContactTitle
+from Orders right join Customers on Orders.CustomerID = customers.CustomerID
+
+15) select * from Employees
+where ReportsTo is null = the Vice President
+
+16) select Employees.EmployeeID, EmployeeTerritories.EmployeeID, Employees.LastName, Employees.FirstName
+from Employees
+inner join EmployeeTerritories
+on EmployeeTerritories.EmployeeID = Employees.EmployeeID
+where EmployeeTerritories.EmployeeID = 2
+
+
+
+
